@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+   
+    "name": "Mrbeast Takeover",
+    "version": "2.0",
+    "description": "Make everything mrbeast and amogus",
+    "action": {
+      "default_icon": "output-onlinegiftools(1).png",
+      "default_popup": "PoPup.html"
+    
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "options_page": "options.html",
+    "permissions": [
+     "scripting",
+     "storage",
+     "tabs"
+    ],
+    "content_scripts": [{
+      "css": ["Styles.css"],
+      "js": ["content.js"],
+      "matches": ["<all_urls>"]
+    }],
+   "host_permissions": [
+   "https://google.com/*"
+   
+   ]
+  }
