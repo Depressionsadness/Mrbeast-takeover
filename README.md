@@ -10,4 +10,4 @@ Change most the images on screen to mrbeast (from the mrbeast rap) and also, jus
 3. Click load unpacked.
 4. Choose the Mrbeast-takeover file.
 # Updates
-none, yet,
+v1.1.0 Coming out soon!
