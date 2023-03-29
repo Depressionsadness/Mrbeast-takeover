@@ -11,3 +11,6 @@ Change most the images on screen to mrbeast (from the mrbeast rap) and also, jus
 4. Choose the Mrbeast-takeover file.
 # Updates
 v1.1.0 out now!!!
+
+
+v1.0.0 Released
